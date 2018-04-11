@@ -1,10 +1,7 @@
 <?php
 include 'top.php';
 //%^%^%^%^%^%^%^%^%^%^%
-//
-//SECTION: 1 initialize variables
-//
-//sc. 1a.
+
 //if ($debug) {
 print '<p>Post Attay:</p><pre>';
 print_r($_POST);
