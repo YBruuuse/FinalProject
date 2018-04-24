@@ -1,0 +1,41 @@
+                #form1 {
+                    position: absolute;
+                    left:320px;
+                    top:900px;
+                }
+                #form2 {
+                    position: absolute;
+                    right: 320px;
+                    top:900px;
+                }
+                 #form3 {
+                    position: absolute;
+                    left: 320px;
+                    top:1300px;
+                }
+                 #form4 {
+                    position: absolute;
+                    right: 320px;
+                    top:1300px;
+                }
+                 
+                form {
+                    max-width: 40%;
+                    height: auto;
+                }
+
+                .center {
+                position: absolute;
+                left: 0;
+                top: 50%;
+                width: 100%;
+                text-align: center;
+                font-size: 60px;
+                }
+ui
+{
+    word-spacing: 30px;
+    font-family:sans-serif;
+    font-size:20px;
+}
+	
