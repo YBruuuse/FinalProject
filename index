@@ -1,0 +1,29 @@
+<?php
+include ('top_1.php');
+?>
+ <style type="text/css">
+body {background-image: url(../final/image/4.jpg);
+      background-repeat:no-repeat;
+      background-position:top;
+      background-size: 100%;}
+        </style>       
+       
+<form id="form1" name="form1" method="post" action="decorations.php">
+    <input name="submit" type="image" value=" " src="../final/image/1.jpg" width="500" />
+    <div class="center">Decorations</div>
+</form>
+<form id="form2" name="form2" method="post" action="food.php">
+  <input name="submit" type="image" value=" " src="../final/image/2.jpg" width="500" />
+      <div class="center">Cuisines</div>
+</form>
+<form id="form3" name="form3" method="post" action="intangible culture.php">
+    <input name="submit" type="image" value=" " src="../final/image/3.jpg" width="500" />
+      <div class="center">Arts</div>
+</form>
+<form id="form4" name="form4" method="post" action="form.php">
+  <input name="submit" type="image" value=" " src="" />
+</form>
+<?php
+include ('footer.php');
+?>
+
